@@ -4,13 +4,13 @@
 <hr>
 </div>
 
-<center>
+<div align='center'>
 
 <a href="https://www.linkedin.com/in/armando-galindo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/aegcodes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/MandolorCodes/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
-</center>
+</div>
 
 <!--
 
@@ -53,6 +53,7 @@ University of California, Riverside 2021
 
 ### Fun fact ⚡
 <h3 align='center'>I Love Astronomy | Astrophotography and the Moon 📸🌕🪐🌌</h3>
+
 <center>
 
 ### Now Playing 🎧
@@ -60,4 +61,5 @@ University of California, Riverside 2021
 <br/>
 ---
 </center>
+
 <img src='./I_Need_A_Job.jpg'>
