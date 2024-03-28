@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 ### About Me 🚀
-<h4>Software Engineer | MERN StacK Developer</h4>
+<h4>Software Engineer | MERN Stack Developer</h4>
 
 <h2>Languages and Tools 🖥️📚⚒️:</h2>
 
